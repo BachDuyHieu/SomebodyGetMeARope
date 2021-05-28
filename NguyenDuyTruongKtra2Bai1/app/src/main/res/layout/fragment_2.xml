@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragment.Fragment2">
+
+    <ImageView
+        android:layout_width="400dp"
+        android:layout_height="400dp"
+        android:src="@drawable/cafe2" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Với kích thước hạt khá nhỏ cùng công đoạn chế biến sấy trực tiếp, không qua lên men. Chính vì vậy mà vị của cà phê Robusta có vị đắng mạnh mẽ, đậm đà. Với sản phẩm chiếm hơn 90% tổng sản lượng cà phê của Việt Nam. Cà phê Robusta là cái tên không thể thiếu khi nhắc đến những loại cà phê ngon nhất."
+        android:textSize="20dp" />
+
+</LinearLayout>

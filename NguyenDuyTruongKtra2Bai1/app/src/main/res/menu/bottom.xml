@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/mFragment1"
+        android:icon="@drawable/ic_baseline_local_cafe_24"
+        android:title="Robusta" />
+    <item
+        android:id="@+id/mFragment2"
+        android:icon="@drawable/ic_baseline_local_cafe_24"
+        android:title="Arabica" />
+    <item
+        android:id="@+id/mFragment3"
+        android:icon="@drawable/ic_baseline_local_cafe_24"
+        android:title="Culi" />
+</menu>
